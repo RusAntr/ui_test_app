@@ -7,7 +7,7 @@ class PhoneNumbersWidget extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Container(
-      padding: const EdgeInsets.symmetric(vertical: 17, horizontal: 16),
+      padding: const EdgeInsets.symmetric(vertical: 16),
       decoration: BoxDecoration(
         borderRadius: BorderRadius.circular(18),
       ),
